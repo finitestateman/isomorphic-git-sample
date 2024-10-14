@@ -1,0 +1,14 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "A project using isolated-git",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "isomorphic-git": "^1.27.1"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
